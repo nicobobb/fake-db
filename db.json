@@ -1,0 +1,104 @@
+{
+    "electronica": [
+        {
+            "id": 1,
+            "nombre": "PlayStation 5",
+            "marca": "Sony"
+        },
+        {
+            "id": 2,
+            "nombre": "MacBook Pro",
+            "marca": "Apple"
+        },
+        {
+            "id": 3,
+            "nombre": "Samsung Galaxy S21",
+            "marca": "Samsung"
+        },
+        {
+            "id": 4,
+            "nombre": "DJI Mavic Air 2",
+            "marca": "DJI"
+        },
+        {
+            "id": 5,
+            "nombre": "Amazon Echo Dot (4th Gen)",
+            "marca": "Amazon"
+        },
+        {
+            "id": 6,
+            "nombre": "Samsung QLED Q90T",
+            "marca": "Samsung"
+        },
+        {
+            "id": 7,
+            "nombre": "Canon EOS R5",
+            "marca": "Canon"
+        },
+        {
+            "id": 8,
+            "nombre": "Sony WH-1000XM4",
+            "marca": "Sony"
+        },
+        {
+            "id": 9,
+            "nombre": "Nintendo Switch",
+            "marca": "Nintendo"
+        },
+        {
+            "id": 10,
+            "nombre": "LG CX OLED",
+            "marca": "LG"
+        },
+        {
+            "id": 11,
+            "nombre": "Xbox Series X",
+            "marca": "Microsoft"
+        },
+        {
+            "id": 12,
+            "nombre": "Alienware Area-51m",
+            "marca": "Dell"
+        },
+        {
+            "id": 13,
+            "nombre": "iPhone 13 Pro",
+            "marca": "Apple"
+        },
+        {
+            "id": 14,
+            "nombre": "GoPro Hero 10 Black",
+            "marca": "GoPro"
+        },
+        {
+            "id": 15,
+            "nombre": "Fitbit Charge 5",
+            "marca": "Fitbit"
+        },
+        {
+            "id": 16,
+            "nombre": "Microsoft Surface Laptop 4",
+            "marca": "Microsoft"
+        },
+        {
+            "id": 17,
+            "nombre": "Sony A7 IV",
+            "marca": "Sony"
+        },
+        {
+            "id": 18,
+            "nombre": "Bose QuietComfort 45",
+            "marca": "Bose"
+        },
+        {
+            "id": 19,
+            "nombre": "Garmin Fenix 7",
+            "marca": "Garmin"
+        },
+        {
+            "id": 20,
+            "nombre": "Razer Blade 15",
+            "marca": "Razer"
+        }
+    ]
+}
