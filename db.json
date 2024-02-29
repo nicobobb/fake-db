@@ -3,31 +3,37 @@
         {
             "id": 1,
             "nombre": "PlayStation",
+            "price": 1500,
             "image": "https://http2.mlstatic.com/D_NQ_NP_970771-MLA73347645092_122023-O.webp"
         },
         {
             "id": 2,
             "nombre": "MacBook",
+            "price": 5600,
             "image": "https://carrello.com.ar/ecom/wp-content/uploads/2022/07/mbp-silver-select-202206.jpg"
         },
         {
             "id": 3,
             "nombre": "Samsung",
+            "price": 800,
             "image": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a546elgfaro/gallery/ar-galaxy-a54-5g-sm-a546-455651-sm-a546elgfaro-536287449?$650_519_PNG$"
         },
         {
             "id": 4,
             "nombre": "Dron",
+            "price": 16500,
             "image": "https://101db.com.ar/10208-large_default/dron-blaupunkt-skyhawk-camara-full-hd-1080px-gps-regreso-automatico.jpg"
         },
         {
             "id": 5,
             "nombre": "Nokia",
+            "price": 210,
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nokia_5110.jpg/640px-Nokia_5110.jpg"
         },
         {
             "id": 6,
             "nombre": "Canon",
+            "price": 16500,
             "image": "https://www.cosentinostore.com.ar/Image/0/500_500-CANON-EOS-R718-150.png"
         }
     ]
