@@ -29,16 +29,6 @@
             "id": 6,
             "nombre": "Nokia",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nokia_5110.jpg/640px-Nokia_5110.jpg"
-        },
-        {
-            "id": 7,
-            "nombre": "Canon",
-            "image": "https://www.cosentinostore.com.ar/Image/0/500_500-CANON-EOS-R718-150.png"
-        },
-        {
-            "id": 8,
-            "nombre": "Parlante",
-            "image": "https://arsonyb2c.vtexassets.com/arquivos/ids/349097/MHC-V43D_01_Front.jpg?v=637370049549100000"
         }
     ]
 }
